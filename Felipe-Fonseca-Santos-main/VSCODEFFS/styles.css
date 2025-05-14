@@ -1,0 +1,20 @@
+*{
+    margin: 10px;
+    padding: 0px;
+}
+
+#logo {width:1000px; height:900px ;}
+
+.img-div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    background-color: white;}
+
+footer {
+    background-color: white;
+}
